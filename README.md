@@ -1,4 +1,4 @@
-#My first react code
+# My first react code
 
 This is my first written code in react, not a detail project but just working round react and tap into what it has to offer. Can't wait to build something big with the react library.
 
