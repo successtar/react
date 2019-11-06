@@ -2,7 +2,7 @@
 
 This is just a sample code in react, not a detail project but just working round react and tap into what it has to offer. Can't wait to build something big with the react library.
 
-The preview is available here [Successtar React](http://lab.myexampoint.com/react).
+The preview is available here [Successtar React](https://successtar.firebaseapp.com/).
 
 ## Available Scripts
 
